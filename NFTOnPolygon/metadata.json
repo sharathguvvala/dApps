@@ -1,0 +1,20 @@
+{ 
+    "description": "This NFT proves I've created and deployed an ERC721 smart contract on Polygon",
+    "external_url": "Alchemy.com",
+    "image": "https://ipfs.filebase.io/ipfs/QmSLRctaS3vSse2kEvmqGthvhVxjtMdZJARUnyWDdUvSjU",
+    "name": "A Cool NFT Polygon", 
+    "attributes": [
+      {
+        "trait_type": "Coolness", 
+        "value": "A lot"
+      }, 
+      {
+        "trait_type": "Website", 
+        "value": "https://polygonscan.com/"
+      }, 
+      {
+        "trait_type": "Token Standard", 
+        "value": "ERC 721"
+      }
+    ]
+}  
