@@ -27,8 +27,6 @@ contract NFTOnPolygon is ERC721, ERC721Enumerable, ERC721URIStorage {
         _setTokenURI(tokenId, uri);
     }
 
-    // The following functions are overrides required by Solidity.
-
     function _beforeTokenTransfer(address from, address to, uint256 tokenId)
         internal
         override(ERC721, ERC721Enumerable)
